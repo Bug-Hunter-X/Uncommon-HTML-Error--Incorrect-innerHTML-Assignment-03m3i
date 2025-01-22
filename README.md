@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error in HTML related to the use of innerHTML. The bug involves attempting to directly assign an array to the innerHTML property of a DOM element. The solution shows the correct way to concatenate array items into a string before assignment.
